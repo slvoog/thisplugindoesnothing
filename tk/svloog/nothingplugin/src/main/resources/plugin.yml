@@ -1,0 +1,7 @@
+name: ThisPluginDoesNothingPlugin
+version: 1.0
+main: java.PluginMain
+api-version: 1.13
+commands:
+  thiscommanddoesnothing:
+    description: This Command Does Nothing
